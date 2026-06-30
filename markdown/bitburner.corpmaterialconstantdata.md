@@ -84,6 +84,7 @@ number
 
 </td><td>
 
+Divides quality to determine how far the selling price can be over the market price before a penalty is placed on the volume
 
 </td></tr>
 <tr><td>

@@ -8,7 +8,7 @@ Go to City Hall in Sector-12 and create a Corporation through the UI if you want
 
 You can use seed money when creating a corporation in BN3.
 
-You can go through multiple "rounds" of investor funding in which you exchange shares of your company for infusions of cash. You always maintain operational control of your corporation regardless of how many shares you have issued.
+You can go through multiple "rounds" of investor funding in which you exchange shares of your company for infusions of cash. You always maintain operational control of your corporation regardless of how many shares you have issued. How much money you are offered depends on the performance of your corporation.
 
 There are multiple industries that you can expand into. In order to do that, you need to choose an industry and create a division. Agriculture is the best starting industry. Check this [section](./industry-supply-chain.md) for details.
 
@@ -46,3 +46,5 @@ Wilson: Wilson Analytics upgrade.
 Market-TA2: Automatically set optimal prices for your output materials/products.
 
 RP: Research point.
+
+Round: A "turn" capped by accepting an investment offer. Used as a progress milestone.

@@ -4,7 +4,7 @@
 
 Create Agriculture division, expand to 6 cities and buy 6 warehouses.
 
-Use API (`upgradeOfficeSize`) to upgrade office size from 3 to 4. Set 4 employees to R&D and wait until RP is at least 55. Switch to Operations (1) + Engineer (1) + Business (1) + Management (1) before buying boost materials.
+Use API (`upgradeOfficeSize`) to upgrade each office size from 3 to 4. Set 4 employees to R&D and wait until RP is at least 55. Switch to Operations (1) + Engineer (1) + Business (1) + Management (1) before buying boost materials.
 
 Make sure that your employees' energy and morale are at maximum value. This is always mandatory, not just in round 1.
 
@@ -20,13 +20,15 @@ There are not many things else to do in this round. The budget is too low, so yo
 Use remaining funds to buy these upgrades:
 
 - Only focus on Smart Storage and warehouse upgrade.
-- Buy 2 Advert levels.
+- Buy 2 Advert levels. (Note that unlike the other sections on the division page, the first section is for your ENTIRE division. Do not try to buy 2 Advert levels per city)
 
 After that, find the optimal quantities of boost materials and buy them. Do not use "Bulk Purchase", it requires paying upfront. Buying boost materials per second does not need funds because you can go into debt.
 
+Make sure you are operating at a profit, accept the investment offer, and proceed to Round 2.
+
 ## Round 2
 
-Buy "Export".
+Buy "Export". You need this to transfer goods between divisions.
 
 Upgrade Agriculture division:
 
@@ -36,10 +38,10 @@ Upgrade Agriculture division:
 Create Chemical division:
 
 - Expanding into Chemical industry is mandatory. Without high-quality Chemicals (material) from Chemical division, output materials in Agriculture will be low-quality, and low-quality materials cannot be sold well.
-- Chemical division is a support division, so don't invest much funds on it. Don't waste funds on its Office/Advert upgrades.
+- Chemical division is a support division, so don't invest much funds on it. Don't waste funds on its Office upgrades.
 - Chemical industry has low boost materials' coefficients, so you should only buy very small number of warehouse upgrade for it. On the other hand, you should not skip Chemical's warehouse upgrade entirely. You still need Chemical division produces an acceptable amount of high-quality Chemical; otherwise, the quality of Chemical used in PRODUCTION state of Agriculture division is reduced too much due to "dilution" in PURCHASE state. For this purpose, 1 warehouse upgrade is enough.
 
-Focus on Smart Storage, Smart Factories, warehouse upgrade (Agriculture).
+After that, focus on Smart Storage, Smart Factories, warehouse upgrade (Agriculture).
 
 Waiting for RP is mandatory in this round. It serves 2 purposes:
 
